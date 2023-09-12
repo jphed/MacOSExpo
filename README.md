@@ -44,9 +44,16 @@ MacOS nacio en 2001, gracias a la compañia apple. Es el sistema operativo princ
  - 11.0 Big Sur (2020-Hoy)
     * ![Imagen de Big Sur](/Img/Sur.jpg)
  - 12.0 Monterey (2021-Hoy)
+<<<<<<< HEAD
     * ![Imagen de Monterey](/Img/Monterey.jpg)
  - 13.0 Ventura (2022-Hoy)
     * ![Imagen de Ventura](/Img/Ventura.jpg)
 
 
  
+=======
+ - 13.0 Ventura (2022-Hoy)
+
+> mamaguebo digo gluglugluglugluglugluglugluglugluglulguglugluglugluglu
+> mamaguebo
+>>>>>>> 47f83ac46327546476636cbfa34d8ed3f31be83c

@@ -8,7 +8,7 @@
 - **La idea de un OS con GUI fue inspirado en la empresa XEROX // Steve Jobs**<br>
 - **Su primera version tenia el nombre de "System"**<br>
 
-<br><br>
+<br><br> 
 
 # Interfaz Grafica
 > **Explorador de archivos de MacOS // Finder**<br><br>

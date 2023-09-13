@@ -72,3 +72,26 @@ MacOS nacio en 2001, gracias a la compañia apple. Es el sistema operativo princ
 * Manera sencilla de mandar archivos entre dispositivos Apple 
 * Funciona de tal manera en que se conecta por Bluetooth al otro dispositivo y crea una red wifi entre ambos.
  
+### Archivos .dmg
+* Signica Archivo de imagen de disco 
+* Es una reconstrucción digital de un disco físico
+* Se suelen descargar el archivo y, a continuación, se puede instalar una aplicación haciendo doble clic en él.
+
+### Puertos de Conexion
+* Thunderbolt 4/3/USB 
+> ![Imagen de una entrada Thunderbolt](Img/Thunder4.jpg)
+* HDMI
+>   ![Imagen de una entrada HDMI](Img/HDMI.jpg)  
+* Tarjeta SD
+* Ethernet
+> ![Imagen de una entrada Ethernet](Img/Ethernet.jpg)
+* Alimentacion
+* Audio
+* USB-A
+> ![Imagen de una entrada USB-A](Img/USB.jpg)
+* Thunderbolt 1/2
+> ![Imagen de una entrada Thunderbolt 1](Img/Thunder1.jpg)
+* Mini Display
+> ![Alt text](image.png)
+* Firewire
+> ![Imagen de una entrada Firewire](Img/FireWire.jpg)

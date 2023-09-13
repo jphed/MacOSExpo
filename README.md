@@ -6,9 +6,9 @@ MacOS nacio en 2001, gracias a la compañia apple. Es el sistema operativo princ
 
 ### Versiones 
  - Mac OS X server 1.0 (1999-2000)
-    * ![Imagen de Server](Img/Server.jpg) 
+    * ![Imagen de Server](Img/Server.JPG) 
  - Beta Publica (2000)
-    * ![Imagen de Beta](Img/Beta.jpg) 
+    * ![Imagen de Beta](Img/Beta.jpg)
     * Version Preliminar para obtener opiniones del publico
  - 10.0 Cheeta (2001)
     * ![Imagen de Cheeta](Img/Cheeta.jpg) 

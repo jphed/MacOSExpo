@@ -8,7 +8,7 @@
 - **La idea de un OS con GUI fue inspirado en la empresa XEROX // Steve Jobs**<br>
 - **Su primera version tenia el nombre de "System"**<br>
 
-<br><br> 
+<br><br>
 
 # Interfaz Grafica
 > **Explorador de archivos de MacOS // Finder**<br><br>
@@ -36,15 +36,13 @@
 > **Explorador de archivos de MacOS**<br><br>
 > *Resumen:*<br>
 > El Finder de macOS es la herramienta principal para organizar y ver archivos en una Mac. Es como la ventana principal para explorar y gestionar todos los archivos y carpetas en tu computadora.<br>
->![Alt text](imgMacOs/finderPic.png "a title")<br>
-<br>
+>![Alt text](imgMacOs/finderPic.png "a title")<br><br>
 - **Navegación de carpetas**
 - **Vista previa de archivos**
 - **Búsqueda avanzada**
 - **Copiar, mover y eliminar**
 - **Creación de carpetas y etiquetas**
 - **Gestión de ventanas**
-
 
 # <br><br><br>Archivos .dmg // Que son?<br>
 > **Archivos .dmg de MacOS**<br><br>
